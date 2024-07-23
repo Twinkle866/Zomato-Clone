@@ -531,7 +531,7 @@ a {
        height: 100%;
        width: 100%;
        transform: scale(0.65);
-       background-image: url("images\get-zomato-app.png");
+       background-image: url("get-zomato-app.png");
        background-size: contain;
        background-repeat: no-repeat;
        background-position: center;
@@ -628,7 +628,7 @@ input[type=submit] {
 
 .googleplay {
        margin-top: 20px;
-       background-image: url(images\googleplay.png);
+       background-image: url(googleplay.png);
        background-size: contain;
        background-repeat: no-repeat;
        height: 70px;
@@ -639,7 +639,7 @@ input[type=submit] {
 
 .appstore {
        margin-top: 20px;
-       background-image: url(images\Appstore.png);
+       background-image: url(Appstore.png);
        background-size: contain;
        background-repeat: no-repeat;
        height: 70px;
