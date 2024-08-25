@@ -15,7 +15,7 @@ body {
 .container {
        height: 60vh;
        width: 100vw;
-       background-image: url(zomato-head.jpg);
+       background-image: url(images/zomato-head.jpg);
        background-size: cover;
        background-position: center;
        display: flex;
@@ -531,7 +531,7 @@ a {
        height: 100%;
        width: 100%;
        transform: scale(0.65);
-       background-image: url("get-zomato-app.png");
+       background-image: url("images/get-zomato-app.png");
        background-size: contain;
        background-repeat: no-repeat;
        background-position: center;
