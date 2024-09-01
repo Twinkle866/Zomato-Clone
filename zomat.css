@@ -15,7 +15,7 @@ body {
 .container {
        height: 60vh;
        width: 100vw;
-       background-image: url(images/zomato-head.jpg);
+       background-image: url(images\zomato-head.jpg);
        background-size: cover;
        background-position: center;
        display: flex;
